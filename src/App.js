@@ -1,24 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
-
+import Navbar from "./components/Navbar";
+import Property from "./components/Property";
+import TabLocation from "./components/TabLocation";
+import { Routes, Route } from "react-router-dom";
+import HotelState from './context/HotelState'
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <HotelState>
+    <Navbar/>
+    <div className="container">
+      <Routes >
+          <Route index element={<TabLocation/>} />
+          <Route exact path="property/:id" element={<Property />} />
+        </Routes>
     </div>
+    </HotelState>
   );
 }
 

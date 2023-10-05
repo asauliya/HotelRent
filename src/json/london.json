@@ -1,0 +1,152 @@
+[
+  {
+    "hotel_name": "citizenM Tower Of London hotel",
+    "address": {
+      "street": "Tower of London",
+      "city": "London",
+      "country": "England"
+    },
+    "stars": 4,
+    "rating": 9,
+    "number_of_ratings": 4580,
+    "contact": {
+      "phone": "+44 20 3519 4830",
+      "email": "info@citizenm.com"
+    },
+    "room": {
+      "type": "Standard",
+      "price_per_night": "$142",
+      "room_size": "250 sq. ft.",
+      "number_of_beds": 1,
+      "availability": 200
+    }
+  },
+  {
+    "hotel_name": "The Rubens at The Palace",
+    "address": {
+      "street": "Buckingham Palace",
+      "city": "London",
+      "country": "England"
+    },
+    "stars": 5,
+    "rating": 9,
+    "number_of_ratings": 5735,
+    "contact": {
+      "phone": "+44 20 7834 6600",
+      "email": "info@rubenshotel.com"
+    },
+    "room": {
+      "type": "Deluxe Suite",
+      "price_per_night": "$290",
+      "room_size": "450 sq. ft.",
+      "number_of_beds": 2,
+      "availability": 50
+    }
+  },
+  {
+    "hotel_name": "Rosewood London",
+    "address": {
+      "street": "High Holborn",
+      "city": "London",
+      "country": "England"
+    },
+    "stars": 5,
+    "rating": 9,
+    "number_of_ratings": 3200,
+    "contact": {
+      "phone": "+44 20 7781 8888",
+      "email": "london@rosewoodhotels.com"
+    },
+    "room": {
+      "type": "Deluxe Suite",
+      "price_per_night": "$778",
+      "room_size": "3,070 sq. ft.",
+      "number_of_beds": 2,
+      "availability": 10
+    }
+  },
+  {
+    "hotel_name": "The Londoner",
+    "address": {
+      "street": "Leicester Square",
+      "city": "London",
+      "country": "England"
+    },
+    "stars": 5,
+    "rating": 9,
+    "number_of_ratings": 4500,
+    "contact": {
+      "phone": "+44 20 1234 5678",
+      "email": "info@thelondoner.com"
+    },
+    "room": {
+      "type": "Luxury Suite",
+      "price_per_night": "$950",
+      "room_size": "4,500 sq. ft.",
+      "number_of_beds": 3,
+      "availability": 5
+    }
+  },
+  {
+    "hotel_name": "City Center Hotel",
+    "address": {
+      "street": "789 Central Street",
+      "city": "London",
+      "country": "England"
+    },
+    "contact": {
+      "phone": "+91 777-666-5555",
+      "email": "info@citycenterLondon.com"
+    },
+    "stars": 3,
+    "rating": 3.4,
+    "number_of_ratings": 950,
+    "room": {
+      "type": "Standard Room",
+      "price_per_night": 2500,
+      "availability": 22,
+      "room_size": "350 sq. ft",
+      "number_of_beds": 1
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "City Center Location",
+      "Restaurant",
+      "Bar",
+      "Conference Rooms",
+      "Fitness Center"
+    ],
+    "description": "City Center Hotel offers comfortable Standard Rooms in the heart of the city. Each room has a room size of 350 sq. ft and one bed. Enjoy complimentary Wi-Fi, dine at our on-site restaurant or bar, and utilize our conference rooms for meetings. Our fitness center is equipped for your workout needs."
+  },
+  {
+    "hotel_name": "Bayview Resort",
+    "address": {
+      "street": "101 Bayfront Drive",
+      "city": "London",
+      "country": "England"
+    },
+    "contact": {
+      "phone": "+91 999-777-8888",
+      "email": "info@bayviewresortLondon.com"
+    },
+    "stars": 4,
+    "rating": 4.4,
+    "number_of_ratings": 1300,
+    "room": {
+      "type": "Bayview Suite",
+      "price_per_night": 7000,
+      "availability": 12,
+      "room_size": "800 sq. ft",
+      "number_of_beds": 2
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Bay Views",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Restaurant",
+      "Bar"
+    ],
+    "description": "Bayview Resort is a 4-star resort with stunning bay views. Our Bayview Suites, with a room size of 800 sq. ft, feature two comfortable beds. Enjoy complimentary Wi-Fi, take a dip in the infinity pool, rejuvenate at our spa & wellness center, and savor culinary delights at our on-site restaurant or bar. This resort is perfect for a relaxing getaway."
+  }
+]

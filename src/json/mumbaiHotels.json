@@ -1,0 +1,737 @@
+[
+    {
+      "hotel_name": "Marina Hotel",
+      "address": {
+        "street": "123 Beachfront Avenue",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400001",
+        "country": "India"
+      },
+      "contact": {
+        "phone": "+91 123-456-7890",
+        "email": "info@mumbaimarinahotel.com"
+      },
+      "stars": 4,
+      "rating": 4.5,
+      "number_of_ratings": 1200,
+      "room": {
+        "type": "Deluxe Suite",
+        "price_per_night": 8000,
+        "availability": 10,
+        "room_size": "500 sq. ft",
+        "number_of_beds": 1
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Swimming Pool",
+        "Gym",
+        "Spa",
+        "Restaurant",
+        "Bar"
+      ],
+      "description": "Marina Hotel is a luxurious beachfront hotel located in the heart of Mumbai. With stunning views of the Arabian Sea, our 4-star hotel offers spacious Deluxe Suites, each with a room size of 500 sq. ft and one comfortable bed. Our suites are elegantly furnished and equipped with modern amenities to ensure a comfortable stay. Enjoy our free Wi-Fi, relax by the swimming pool, or indulge in a spa treatment. Our on-site restaurant and bar offer delightful dining options. Whether you're here for business or leisure, we strive to provide you with the best hospitality experience in Mumbai."
+    },
+    {
+      "hotel_name": "Skyview Hotel",
+      "address": {
+        "street": "456 Heights Road",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400002",
+        "country": "India"
+      },
+      "contact": {
+        "phone": "+91 987-654-3210",
+        "email": "reservations@skyviewmumbai.com"
+      },
+      "stars": 5,
+      "rating": 4.8,
+      "number_of_ratings": 2500,
+      "room": {
+        "type": "Luxury Penthouse",
+        "price_per_night": 15000,
+        "availability": 5,
+        "room_size": "1200 sq. ft",
+        "number_of_beds": 2
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Infinity Pool",
+        "Fitness Center",
+        "Spa & Wellness",
+        "Fine Dining Restaurant",
+        "Sky Bar"
+      ],
+      "description": "Skyview Hotel is a 5-star luxury hotel offering breathtaking panoramic views of the city skyline. Our luxurious Luxury Penthouses are spacious with a room size of 1200 sq. ft and feature two comfortable beds. Enjoy complimentary Wi-Fi, take a dip in our infinity pool, stay fit at the state-of-the-art fitness center, and relax at our spa & wellness center. Our fine dining restaurant and sky bar provide a culinary delight that complements your stay."
+    },
+    {
+      "hotel_name": "Beachside Resort",
+      "address": {
+        "street": "789 Coastal Road",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400003",
+        "country": "India"
+      },
+      "contact": {
+        "phone": "+91 777-888-9999",
+        "email": "info@beachsideresortmumbai.com"
+      },
+      "stars": 3,
+      "rating": 3.9,
+      "number_of_ratings": 800,
+      "room": {
+        "type": "Standard Room",
+        "price_per_night": 3500,
+        "availability": 20,
+        "room_size": "300 sq. ft",
+        "number_of_beds": 1
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Beach Access",
+        "Outdoor Pool",
+        "Restaurant",
+        "Lounge"
+      ],
+      "description": "Beachside Resort is a charming 3-star resort located right by the beach. Our Standard Rooms, with a room size of 300 sq. ft, offer a comfortable stay with one bed. Enjoy complimentary Wi-Fi, direct beach access, and relax by our outdoor pool. Our on-site restaurant and lounge provide a variety of dining and relaxation options, making it an ideal choice for a beachside getaway."
+    },
+    {
+      "hotel_name": "Luxury Oasis Hotel",
+      "address": {
+        "street": "567 Oasis Lane",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400004",
+        "country": "India"
+      },
+      "contact": {
+        "phone": "+91 555-123-4567",
+        "email": "info@luxuryoasismumbai.com"
+      },
+      "stars": 5,
+      "rating": 4.9,
+      "number_of_ratings": 3500,
+      "room": {
+        "type": "Royal Suite",
+        "price_per_night": 20000,
+        "availability": 3,
+        "room_size": "1500 sq. ft",
+        "number_of_beds": 3
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Private Beach",
+        "Spa & Wellness",
+        "Fine Dining",
+        "Lounge",
+        "Conference Rooms"
+      ],
+      "description": "Luxury Oasis Hotel is a 5-star oasis of luxury and comfort nestled in the heart of Mumbai. Our Royal Suites, with a room size of 1500 sq. ft, offer an opulent stay with three comfortable beds. Enjoy complimentary Wi-Fi, access to our private beach, and rejuvenate at our spa & wellness center. Savor fine dining at our on-site restaurant, relax in the lounge, and conduct business in our well-equipped conference rooms."
+    },
+    {
+      "hotel_name": "Garden Retreat",
+      "address": {
+        "street": "101 Green Gardens",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400005",
+        "country": "India"
+      },
+      "contact": {
+        "phone": "+91 999-888-7777",
+        "email": "info@gardenretreatmumbai.com"
+      },
+      "stars": 3,
+      "rating": 3.6,
+      "number_of_ratings": 600,
+      "room": {
+        "type": "Standard Garden View",
+        "price_per_night": 3000,
+        "availability": 15,
+        "room_size": "400 sq. ft",
+        "number_of_beds": 2
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Garden Views",
+        "Outdoor Pool",
+        "Restaurant",
+        "Lounge",
+        "Meeting Rooms"
+      ],
+      "description": "Garden Retreat is a charming 3-star retreat surrounded by lush green gardens. Our Standard Garden View rooms, with a room size of 400 sq. ft, offer comfortable stays with two beds and picturesque garden views. Enjoy complimentary Wi-Fi, take a dip in the outdoor pool, dine at our on-site restaurant, and relax in the lounge. We also offer meeting rooms for business travelers."
+    },
+    {
+      "hotel_name": "Seaside View Hotel",
+      "address": {
+        "street": "789 Shoreline Road",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400006",
+        "country": "India"
+      },
+      "contact": {
+        "phone": "+91 111-222-3333",
+        "email": "info@seasideviewmumbai.com"
+      },
+      "stars": 4,
+      "rating": 4.3,
+      "number_of_ratings": 1500,
+      "room": {
+        "type": "Ocean View Suite",
+        "price_per_night": 9000,
+        "availability": 8,
+        "room_size": "700 sq. ft",
+        "number_of_beds": 1
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Seaside Views",
+        "Fitness Center",
+        "Spa",
+        "Restaurant",
+        "Lounge"
+      ],
+      "description": "Seaside View Hotel is a 4-star hotel located along the scenic shoreline. Our Ocean View Suites, with a room size of 700 sq. ft, offer stunning seaside views and a comfortable bed. Enjoy complimentary Wi-Fi, stay active at the fitness center, relax at our spa, and dine in our on-site restaurant or lounge. This hotel is perfect for those seeking a serene seaside experience."
+    },
+    {
+      "hotel_name": "Downtown Residence",
+      "address": {
+        "street": "456 Downtown Avenue",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400007",
+        "country": "India"
+      },
+      "contact": {
+        "phone": "+91 777-999-5555",
+        "email": "info@downtownmumbai.com"
+      },
+      "stars": 3,
+      "rating": 3.7,
+      "number_of_ratings": 900,
+      "room": {
+        "type": "Studio Apartment",
+        "price_per_night": 4000,
+        "availability": 12,
+        "room_size": "600 sq. ft",
+        "number_of_beds": 1
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Downtown Location",
+        "Cafe",
+        "Laundry Service",
+        "Gym",
+        "Business Center"
+      ],
+      "description": "Downtown Residence offers comfortable studio apartments in the heart of the city. Our Studio Apartments, with a room size of 600 sq. ft, provide a cozy retreat with one bed. Enjoy complimentary Wi-Fi, grab a coffee at our on-site cafe, take advantage of laundry services, and stay fit at the gym. Our business center is equipped for corporate travelers."
+    },
+    {
+      "hotel_name": "Grand Palace",
+      "address": {
+        "street": "101 Royal Avenue",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400008",
+        "country": "India"
+      },
+      "contact": {
+        "phone": "+91 888-777-6666",
+        "email": "info@grandpalacemumbai.com"
+      },
+      "stars": 5,
+      "rating": 4.9,
+      "number_of_ratings": 2800,
+      "room": {
+        "type": "Royal Suite",
+        "price_per_night": 18000,
+        "availability": 7,
+        "room_size": "1300 sq. ft",
+        "number_of_beds": 2
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Luxury Dining",
+        "Swimming Pool",
+        "Spa & Wellness",
+        "Ballroom",
+        "Concierge"
+      ],
+      "description": "Grand Palace is a 5-star palace-style hotel exuding luxury and grandeur. Our Royal Suites, with a room size of 1300 sq. ft, feature two comfortable beds. Enjoy complimentary Wi-Fi, indulge in luxury dining, relax by the swimming pool, and rejuvenate at our spa & wellness center. Our ballroom is perfect for events, and our concierge service ensures a memorable stay."
+    },
+    {
+      "hotel_name": "Riverside Inn",
+      "address": {
+        "street": "222 Riverside Lane",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400009",
+        "country": "India"
+      },
+      "contact": {
+        "phone": "+91 666-999-8888",
+        "email": "info@riversideinnmumbai.com"
+      },
+      "stars": 3,
+      "rating": 3.5,
+      "number_of_ratings": 700,
+      "room": {
+        "type": "Riverside View Room",
+        "price_per_night": 3500,
+        "availability": 18,
+        "room_size": "400 sq. ft",
+        "number_of_beds": 1
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Riverside Views",
+        "Restaurant",
+        "Bar",
+        "Meeting Rooms",
+        "Fitness Center"
+      ],
+      "description": "Riverside Inn offers comfortable Riverside View Rooms, each with a room size of 400 sq. ft and one bed. Enjoy complimentary Wi-Fi, dine at our on-site restaurant or bar, and utilize our meeting rooms for business. Take in the scenic riverside views and stay active at the fitness center."
+    },
+    {
+      "hotel_name": "Garden Oasis",
+      "address": {
+        "street": "345 Oasis Avenue",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "postal_code": "400010",
+        "country": "India"
+      },
+      "contact": {
+        "phone": "+91 555-888-7777",
+        "email": "info@gardenoasismumbai.com"
+      },
+      "stars": 4,
+      "rating": 4.2,
+      "number_of_ratings": 1100,
+      "room": {
+        "type": "Garden Suite",
+        "price_per_night": 6500,
+        "availability": 14,
+        "room_size": "600 sq. ft",
+        "number_of_beds": 1
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Garden Views",
+        "Outdoor Pool",
+        "Spa",
+        "Restaurant",
+        "Lounge"
+      ],
+      "description": "Garden Oasis is a 4-star oasis of tranquility with lush garden views. Our Garden Suites, with a room size of 600 sq. ft, offer a comfortable stay with one bed. Enjoy complimentary Wi-Fi, take a dip in the outdoor pool, relax at our spa, and dine at our on-site restaurant or lounge. This hotel is perfect for those seeking a serene garden retreat."
+    },
+    {
+      "hotel_name": "citizenM Tower Of London hotel",
+      "address": {
+        "street": "Tower of London",
+        "city": "London",
+        "country": "England"
+      },
+      "stars": 4,
+      "rating": 9,
+      "number_of_ratings": 4580,
+      "contact": {
+        "phone": "+44 20 3519 4830",
+        "email": "info@citizenm.com"
+      },
+      "room": {
+        "type": "Standard",
+        "price_per_night": "$142",
+        "room_size": "250 sq. ft.",
+        "number_of_beds": 1,
+        "availability": 200
+      }
+    },
+    {
+      "hotel_name": "The Rubens at The Palace",
+      "address": {
+        "street": "Buckingham Palace",
+        "city": "London",
+        "country": "England"
+      },
+      "stars": 5,
+      "rating": 9,
+      "number_of_ratings": 5735,
+      "contact": {
+        "phone": "+44 20 7834 6600",
+        "email": "info@rubenshotel.com"
+      },
+      "room": {
+        "type": "Deluxe Suite",
+        "price_per_night": "$290",
+        "room_size": "450 sq. ft.",
+        "number_of_beds": 2,
+        "availability": 50
+      }
+    },
+    {
+      "hotel_name": "Rosewood London",
+      "address": {
+        "street": "High Holborn",
+        "city": "London",
+        "country": "England"
+      },
+      "stars": 5,
+      "rating": 9,
+      "number_of_ratings": 3200,
+      "contact": {
+        "phone": "+44 20 7781 8888",
+        "email": "london@rosewoodhotels.com"
+      },
+      "room": {
+        "type": "Deluxe Suite",
+        "price_per_night": "$778",
+        "room_size": "3,070 sq. ft.",
+        "number_of_beds": 2,
+        "availability": 10
+      }
+    },
+    {
+      "hotel_name": "The Londoner",
+      "address": {
+        "street": "Leicester Square",
+        "city": "London",
+        "country": "England"
+      },
+      "stars": 5,
+      "rating": 9,
+      "number_of_ratings": 4500,
+      "contact": {
+        "phone": "+44 20 1234 5678",
+        "email": "info@thelondoner.com"
+      },
+      "room": {
+        "type": "Luxury Suite",
+        "price_per_night": "$950",
+        "room_size": "4,500 sq. ft.",
+        "number_of_beds": 3,
+        "availability": 5
+      }
+    },
+    {
+      "hotel_name": "City Center Hotel",
+      "address": {
+        "street": "789 Central Street",
+        "city": "London",
+        "country": "England"
+      },
+      "contact": {
+        "phone": "+91 777-666-5555",
+        "email": "info@citycenterLondon.com"
+      },
+      "stars": 3,
+      "rating": 3.4,
+      "number_of_ratings": 950,
+      "room": {
+        "type": "Standard Room",
+        "price_per_night": 2500,
+        "availability": 22,
+        "room_size": "350 sq. ft",
+        "number_of_beds": 1
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "City Center Location",
+        "Restaurant",
+        "Bar",
+        "Conference Rooms",
+        "Fitness Center"
+      ],
+      "description": "City Center Hotel offers comfortable Standard Rooms in the heart of the city. Each room has a room size of 350 sq. ft and one bed. Enjoy complimentary Wi-Fi, dine at our on-site restaurant or bar, and utilize our conference rooms for meetings. Our fitness center is equipped for your workout needs."
+    },
+    {
+      "hotel_name": "Bayview Resort",
+      "address": {
+        "street": "101 Bayfront Drive",
+        "city": "London",
+        "country": "England"
+      },
+      "contact": {
+        "phone": "+91 999-777-8888",
+        "email": "info@bayviewresortLondon.com"
+      },
+      "stars": 4,
+      "rating": 4.4,
+      "number_of_ratings": 1300,
+      "room": {
+        "type": "Bayview Suite",
+        "price_per_night": 7000,
+        "availability": 12,
+        "room_size": "800 sq. ft",
+        "number_of_beds": 2
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Bay Views",
+        "Infinity Pool",
+        "Spa & Wellness",
+        "Restaurant",
+        "Bar"
+      ],
+      "description": "Bayview Resort is a 4-star resort with stunning bay views. Our Bayview Suites, with a room size of 800 sq. ft, feature two comfortable beds. Enjoy complimentary Wi-Fi, take a dip in the infinity pool, rejuvenate at our spa & wellness center, and savor culinary delights at our on-site restaurant or bar. This resort is perfect for a relaxing getaway."
+    },
+    {
+      "hotel_name": "Business Tower Hotel",
+      "address": {
+        "street": "456 Business Street",
+        "city": "Paris",
+        "postal_code": "400013",
+        "country": "France"
+      },
+      "contact": {
+        "phone": "+91 888-666-9999",
+        "email": "info@businesstowerParis.com"
+      },
+      "stars": 4,
+      "rating": 4.1,
+      "number_of_ratings": 1100,
+      "room": {
+        "type": "Business Suite",
+        "price_per_night": 4500,
+        "availability": 16,
+        "room_size": "550 sq. ft",
+        "number_of_beds": 1
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Business District Location",
+        "Fitness Center",
+        "Restaurant",
+        "Bar",
+        "Meeting Rooms"
+      ],
+      "description": "Business Tower Hotel is a 4-star hotel located in the bustling business district. Our Business Suites, with a room size of 550 sq. ft, offer a comfortable stay with one bed. Enjoy complimentary Wi-Fi, stay fit at the fitness center, dine at our on-site restaurant or bar, and use our meeting rooms for business purposes. This hotel caters to the needs of business travelers."
+    },
+    {
+      "hotel_name": "Lakeside Retreat",
+      "address": {
+        "street": "101 Lakeside Avenue",
+        "city": "Paris",
+        "postal_code": "400014",
+        "country": "France"
+      },
+      "contact": {
+        "phone": "+91 777-888-9999",
+        "email": "info@lakesideretreatParis.com"
+      },
+      "stars": 3,
+      "rating": 3.8,
+      "number_of_ratings": 750,
+      "room": {
+        "type": "Lakeside View Room",
+        "price_per_night": 2800,
+        "availability": 14,
+        "room_size": "450 sq. ft",
+        "number_of_beds": 1
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Lakeside Views",
+        "Outdoor Pool",
+        "Restaurant",
+        "Lounge",
+        "Meeting Rooms"
+      ],
+      "description": "Lakeside Retreat is a charming 3-star retreat with picturesque lakeside views. Our Lakeside View Rooms, with a room size of 450 sq. ft, offer a comfortable stay with one bed. Enjoy complimentary Wi-Fi, take a dip in the outdoor pool, dine at our on-site restaurant or lounge, and utilize our meeting rooms for business or events."
+    },
+    {
+      "hotel_name": "Garden Haven",
+      "address": {
+        "street": "789 Greenway Road",
+        "city": "Paris",
+        "postal_code": "400015",
+        "country": "France"
+      },
+      "contact": {
+        "phone": "+91 555-666-7777",
+        "email": "info@gardenhavenParis.com"
+      },
+      "stars": 4,
+      "rating": 4.3,
+      "number_of_ratings": 900,
+      "room": {
+        "type": "Garden View Suite",
+        "price_per_night": 5000,
+        "availability": 10,
+        "room_size": "700 sq. ft",
+        "number_of_beds": 2
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Garden Views",
+        "Outdoor Pool",
+        "Spa",
+        "Restaurant",
+        "Lounge"
+      ],
+      "description": "Garden Haven is a 4-star haven of tranquility with lush garden views. Our Garden View Suites, with a room size of 700 sq. ft, offer a comfortable stay with two beds. Enjoy complimentary Wi-Fi, take a dip in the outdoor pool, relax at our spa, and dine at our on-site restaurant or lounge. This hotel is perfect for those seeking a peaceful garden retreat."
+    },
+    {
+      "hotel_name": "Harbor View Hotel",
+      "address": {
+        "street": "101 Harborfront Road",
+        "city": "Paris",
+        "postal_code": "400016",
+        "country": "France"
+      },
+      "contact": {
+        "phone": "+91 999-555-6666",
+        "email": "info@harborviewParis.com"
+      },
+      "stars": 5,
+      "rating": 4.9,
+      "number_of_ratings": 3200,
+      "room": {
+        "type": "Harbor View Suite",
+        "price_per_night": 16000,
+        "availability": 5,
+        "room_size": "1000 sq. ft",
+        "number_of_beds": 1
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Harbor Views",
+        "Infinity Pool",
+        "Spa & Wellness",
+        "Fine Dining Restaurant",
+        "Sky Bar"
+      ],
+      "description": "Harbor View Hotel is a 5-star hotel offering stunning views of the harbor. Our Harbor View Suites, with a room size of 1000 sq. ft, feature a comfortable bed. Enjoy complimentary Wi-Fi, take a dip in the infinity pool, rejuvenate at our spa & wellness center, and savor gourmet dining at our on-site restaurant or sky bar. This hotel offers a luxurious harborfront experience."
+    },
+    {
+      "hotel_name": "Urban Oasis",
+      "address": {
+        "street": "456 Urban Avenue",
+        "city": "Paris",
+        "postal_code": "400017",
+        "country": "France"
+      },
+      "contact": {
+        "phone": "+91 777-888-6666",
+        "email": "info@urbanoasisParis.com"
+      },
+      "stars": 4,
+      "rating": 4.4,
+      "number_of_ratings": 1400,
+      "room": {
+        "type": "Urban Suite",
+        "price_per_night": 5500,
+        "availability": 10,
+        "room_size": "750 sq. ft",
+        "number_of_beds": 1
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "City Views",
+        "Outdoor Pool",
+        "Spa",
+        "Restaurant",
+        "Lounge"
+      ],
+      "description": "Urban Oasis is a 4-star oasis of comfort with city views. Our Urban Suites, with a room size of 750 sq. ft, offer a comfortable stay with one bed. Enjoy complimentary Wi-Fi, take a dip in the outdoor pool, relax at our spa, and dine at our on-site restaurant or lounge. This hotel is perfect for those seeking an urban retreat in the heart of Paris."
+    },
+    {
+      "hotel_name": "Lakefront Retreat",
+      "address": {
+        "street": "101 Lakefront Road",
+        "city": "Paris",
+        "postal_code": "400018",
+        "country": "France"
+      },
+      "contact": {
+        "phone": "+91 555-444-3333",
+        "email": "info@lakefrontretreatParis.com"
+      },
+      "stars": 3,
+      "rating": 3.7,
+      "number_of_ratings": 600,
+      "room": {
+        "type": "Lake View Room",
+        "price_per_night": 3200,
+        "availability": 12,
+        "room_size": "500 sq. ft",
+        "number_of_beds": 1
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Lake Views",
+        "Outdoor Pool",
+        "Restaurant",
+        "Lounge",
+        "Meeting Rooms"
+      ],
+      "description": "Lakefront Retreat is a tranquil 3-star retreat with scenic lake views. Our Lake View Rooms, with a room size of 500 sq. ft, offer a comfortable stay with one bed. Enjoy complimentary Wi-Fi, take a dip in the outdoor pool, dine at our on-site restaurant or lounge, and utilize our meeting rooms for business or events."
+    },
+    {
+      "hotel_name": "Central Plaza Hotel",
+      "address": {
+        "street": "789 Central Plaza Avenue",
+        "city": "Paris",
+        "postal_code": "400019",
+        "country": "France"
+      },
+      "contact": {
+        "phone": "+91 888-666-7777",
+        "email": "info@centralplazaParis.com"
+      },
+      "stars": 4,
+      "rating": 4.6,
+      "number_of_ratings": 1800,
+      "room": {
+        "type": "Plaza Suite",
+        "price_per_night": 6000,
+        "availability": 9,
+        "room_size": "800 sq. ft",
+        "number_of_beds": 2
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Central Location",
+        "Fitness Center",
+        "Restaurant",
+        "Bar",
+        "Meeting Rooms"
+      ],
+      "description": "Central Plaza Hotel is a 4-star hotel located in the central plaza area. Our Plaza Suites, with a room size of 800 sq. ft, offer a comfortable stay with two beds. Enjoy complimentary Wi-Fi, stay fit at the fitness center, dine at our on-site restaurant or bar, and utilize our meeting rooms for business or events. This hotel is perfect for both business and leisure travelers."
+    },
+    {
+      "hotel_name": "Skyline View Hotel",
+      "address": {
+        "street": "456 Skyline Avenue",
+        "city": "Paris",
+        "postal_code": "400020",
+        "country": "France"
+      },
+      "contact": {
+        "phone": "+91 777-999-6666",
+        "email": "info@skylineviewParis.com"
+      },
+      "stars": 3,
+      "rating": 3.3,
+      "number_of_ratings": 500,
+      "room": {
+        "type": "Skyline View Room",
+        "price_per_night": 2800,
+        "availability": 15,
+        "room_size": "450 sq. ft",
+        "number_of_beds": 1
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "City Skyline Views",
+        "Fitness Center",
+        "Restaurant",
+        "Lounge"
+      ],
+      "description": "Skyline View Hotel offers comfortable Skyline View Rooms with stunning city skyline views. Each room has a room size of 450 sq. ft and one bed. Enjoy complimentary Wi-Fi, stay active at the fitness center, and dine at our on-site restaurant or lounge. This hotel is a great choice for travelers seeking city views."
+    }
+  ]
+  

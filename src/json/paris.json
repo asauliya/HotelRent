@@ -1,0 +1,257 @@
+[
+  {
+    "hotel_name": "Business Tower Hotel",
+    "address": {
+      "street": "456 Business Street",
+      "city": "Paris",
+      "postal_code": "400013",
+      "country": "France"
+    },
+    "contact": {
+      "phone": "+91 888-666-9999",
+      "email": "info@businesstowerParis.com"
+    },
+    "stars": 4,
+    "rating": 4.1,
+    "number_of_ratings": 1100,
+    "room": {
+      "type": "Business Suite",
+      "price_per_night": 4500,
+      "availability": 16,
+      "room_size": "550 sq. ft",
+      "number_of_beds": 1
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Business District Location",
+      "Fitness Center",
+      "Restaurant",
+      "Bar",
+      "Meeting Rooms"
+    ],
+    "description": "Business Tower Hotel is a 4-star hotel located in the bustling business district. Our Business Suites, with a room size of 550 sq. ft, offer a comfortable stay with one bed. Enjoy complimentary Wi-Fi, stay fit at the fitness center, dine at our on-site restaurant or bar, and use our meeting rooms for business purposes. This hotel caters to the needs of business travelers."
+  },
+  {
+    "hotel_name": "Lakeside Retreat",
+    "address": {
+      "street": "101 Lakeside Avenue",
+      "city": "Paris",
+      "postal_code": "400014",
+      "country": "France"
+    },
+    "contact": {
+      "phone": "+91 777-888-9999",
+      "email": "info@lakesideretreatParis.com"
+    },
+    "stars": 3,
+    "rating": 3.8,
+    "number_of_ratings": 750,
+    "room": {
+      "type": "Lakeside View Room",
+      "price_per_night": 2800,
+      "availability": 14,
+      "room_size": "450 sq. ft",
+      "number_of_beds": 1
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Lakeside Views",
+      "Outdoor Pool",
+      "Restaurant",
+      "Lounge",
+      "Meeting Rooms"
+    ],
+    "description": "Lakeside Retreat is a charming 3-star retreat with picturesque lakeside views. Our Lakeside View Rooms, with a room size of 450 sq. ft, offer a comfortable stay with one bed. Enjoy complimentary Wi-Fi, take a dip in the outdoor pool, dine at our on-site restaurant or lounge, and utilize our meeting rooms for business or events."
+  },
+  {
+    "hotel_name": "Garden Haven",
+    "address": {
+      "street": "789 Greenway Road",
+      "city": "Paris",
+      "postal_code": "400015",
+      "country": "France"
+    },
+    "contact": {
+      "phone": "+91 555-666-7777",
+      "email": "info@gardenhavenParis.com"
+    },
+    "stars": 4,
+    "rating": 4.3,
+    "number_of_ratings": 900,
+    "room": {
+      "type": "Garden View Suite",
+      "price_per_night": 5000,
+      "availability": 10,
+      "room_size": "700 sq. ft",
+      "number_of_beds": 2
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Garden Views",
+      "Outdoor Pool",
+      "Spa",
+      "Restaurant",
+      "Lounge"
+    ],
+    "description": "Garden Haven is a 4-star haven of tranquility with lush garden views. Our Garden View Suites, with a room size of 700 sq. ft, offer a comfortable stay with two beds. Enjoy complimentary Wi-Fi, take a dip in the outdoor pool, relax at our spa, and dine at our on-site restaurant or lounge. This hotel is perfect for those seeking a peaceful garden retreat."
+  },
+  {
+    "hotel_name": "Harbor View Hotel",
+    "address": {
+      "street": "101 Harborfront Road",
+      "city": "Paris",
+      "postal_code": "400016",
+      "country": "France"
+    },
+    "contact": {
+      "phone": "+91 999-555-6666",
+      "email": "info@harborviewParis.com"
+    },
+    "stars": 5,
+    "rating": 4.9,
+    "number_of_ratings": 3200,
+    "room": {
+      "type": "Harbor View Suite",
+      "price_per_night": 16000,
+      "availability": 5,
+      "room_size": "1000 sq. ft",
+      "number_of_beds": 1
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Harbor Views",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Fine Dining Restaurant",
+      "Sky Bar"
+    ],
+    "description": "Harbor View Hotel is a 5-star hotel offering stunning views of the harbor. Our Harbor View Suites, with a room size of 1000 sq. ft, feature a comfortable bed. Enjoy complimentary Wi-Fi, take a dip in the infinity pool, rejuvenate at our spa & wellness center, and savor gourmet dining at our on-site restaurant or sky bar. This hotel offers a luxurious harborfront experience."
+  },
+  {
+    "hotel_name": "Urban Oasis",
+    "address": {
+      "street": "456 Urban Avenue",
+      "city": "Paris",
+      "postal_code": "400017",
+      "country": "France"
+    },
+    "contact": {
+      "phone": "+91 777-888-6666",
+      "email": "info@urbanoasisParis.com"
+    },
+    "stars": 4,
+    "rating": 4.4,
+    "number_of_ratings": 1400,
+    "room": {
+      "type": "Urban Suite",
+      "price_per_night": 5500,
+      "availability": 10,
+      "room_size": "750 sq. ft",
+      "number_of_beds": 1
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "City Views",
+      "Outdoor Pool",
+      "Spa",
+      "Restaurant",
+      "Lounge"
+    ],
+    "description": "Urban Oasis is a 4-star oasis of comfort with city views. Our Urban Suites, with a room size of 750 sq. ft, offer a comfortable stay with one bed. Enjoy complimentary Wi-Fi, take a dip in the outdoor pool, relax at our spa, and dine at our on-site restaurant or lounge. This hotel is perfect for those seeking an urban retreat in the heart of Paris."
+  },
+  {
+    "hotel_name": "Lakefront Retreat",
+    "address": {
+      "street": "101 Lakefront Road",
+      "city": "Paris",
+      "postal_code": "400018",
+      "country": "France"
+    },
+    "contact": {
+      "phone": "+91 555-444-3333",
+      "email": "info@lakefrontretreatParis.com"
+    },
+    "stars": 3,
+    "rating": 3.7,
+    "number_of_ratings": 600,
+    "room": {
+      "type": "Lake View Room",
+      "price_per_night": 3200,
+      "availability": 12,
+      "room_size": "500 sq. ft",
+      "number_of_beds": 1
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Lake Views",
+      "Outdoor Pool",
+      "Restaurant",
+      "Lounge",
+      "Meeting Rooms"
+    ],
+    "description": "Lakefront Retreat is a tranquil 3-star retreat with scenic lake views. Our Lake View Rooms, with a room size of 500 sq. ft, offer a comfortable stay with one bed. Enjoy complimentary Wi-Fi, take a dip in the outdoor pool, dine at our on-site restaurant or lounge, and utilize our meeting rooms for business or events."
+  },
+  {
+    "hotel_name": "Central Plaza Hotel",
+    "address": {
+      "street": "789 Central Plaza Avenue",
+      "city": "Paris",
+      "postal_code": "400019",
+      "country": "France"
+    },
+    "contact": {
+      "phone": "+91 888-666-7777",
+      "email": "info@centralplazaParis.com"
+    },
+    "stars": 4,
+    "rating": 4.6,
+    "number_of_ratings": 1800,
+    "room": {
+      "type": "Plaza Suite",
+      "price_per_night": 6000,
+      "availability": 9,
+      "room_size": "800 sq. ft",
+      "number_of_beds": 2
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "Central Location",
+      "Fitness Center",
+      "Restaurant",
+      "Bar",
+      "Meeting Rooms"
+    ],
+    "description": "Central Plaza Hotel is a 4-star hotel located in the central plaza area. Our Plaza Suites, with a room size of 800 sq. ft, offer a comfortable stay with two beds. Enjoy complimentary Wi-Fi, stay fit at the fitness center, dine at our on-site restaurant or bar, and utilize our meeting rooms for business or events. This hotel is perfect for both business and leisure travelers."
+  },
+  {
+    "hotel_name": "Skyline View Hotel",
+    "address": {
+      "street": "456 Skyline Avenue",
+      "city": "Paris",
+      "postal_code": "400020",
+      "country": "France"
+    },
+    "contact": {
+      "phone": "+91 777-999-6666",
+      "email": "info@skylineviewParis.com"
+    },
+    "stars": 3,
+    "rating": 3.3,
+    "number_of_ratings": 500,
+    "room": {
+      "type": "Skyline View Room",
+      "price_per_night": 2800,
+      "availability": 15,
+      "room_size": "450 sq. ft",
+      "number_of_beds": 1
+    },
+    "amenities": [
+      "Free Wi-Fi",
+      "City Skyline Views",
+      "Fitness Center",
+      "Restaurant",
+      "Lounge"
+    ],
+    "description": "Skyline View Hotel offers comfortable Skyline View Rooms with stunning city skyline views. Each room has a room size of 450 sq. ft and one bed. Enjoy complimentary Wi-Fi, stay active at the fitness center, and dine at our on-site restaurant or lounge. This hotel is a great choice for travelers seeking city views."
+  }
+]
